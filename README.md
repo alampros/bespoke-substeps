@@ -1,4 +1,9 @@
 # bespoke-substeps
+
+## Fork notes
+
+This fork just removes the [webmake](https://github.com/medikoo/modules-webmake)-only css injection.
+
 ## Substeps for [Bespoke.js](https://github.com/markdalgleish/bespoke.js) presentations
 
 ### Similar and initially inspired on [bespoke-bullets](https://github.com/markdalgleish/bespoke-bullets).
